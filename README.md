@@ -43,9 +43,9 @@ function getTotalSupply() {
 }
 
 // Call your functions below this line
-mintNFT("Ram", "Chandigarh", 21, "Shirt", "Orange");
-mintNFT("Shyam", "Delhi", 11, "T-Shirt", "Yellow");
-mintNFT("Shiv", "Varanasi", 28, "Shirt", "White");
+mintNFT("Shiv", "Varanasi", 21, "Shirt", "Orange");
+mintNFT("Ram", "Delhi", 11, "T-Shirt", "Yellow");
+mintNFT("Shyam", "Chandigarh", 28, "Shirt", "Red");
 
 listNFTs();
 getTotalSupply();
